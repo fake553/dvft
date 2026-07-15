@@ -23,7 +23,7 @@ conda activate dvft
 
 # Install dependencies
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -113,3 +113,4 @@ python scripts/evaluate.py \
     --dataset imagenet \
     --data_dir /path/to/imagenet
 ```
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21367363.svg)](https://doi.org/10.5281/zenodo.21367363)
